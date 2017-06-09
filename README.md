@@ -1,5 +1,5 @@
 # NYT Entity Uploader
-A wrapper for making requests to the [NYT Entity Service API](https://github.com/newsdev/nyt-entity-service).
+A Python wrapper for making requests to the [NYT Entity Service API](https://github.com/newsdev/nyt-entity-service).
 
 ## Usage
 First: You should be running an instance of the [NYT Entity Service API](https://github.com/newsdev/nyt-entity-service).
